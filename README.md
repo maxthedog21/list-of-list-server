@@ -1,6 +1,6 @@
 # list-of-list-server
-
-A Clojure library designed to ... well, that part is up to you.
+personal management where everything is either a vertical or horizontal list of items.
+Items can be anything from images to plain text.
 
 ## Usage
 
